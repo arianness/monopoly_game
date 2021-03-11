@@ -1,5 +1,7 @@
 ------------------------------------------------------------------------------------------
-The script simulates a monopoly game; players and properties are previously entered and can be modified.
+Description: The script simulates a monopoly game; players and properties are previously 
+entered and can be modified.
+
 Requirements: Python 3.8
 Modules: numpy, json
 ------------------------------------------------------------------------------------------
