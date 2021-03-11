@@ -30,8 +30,8 @@ The file contain the following atribbutes:
 }
 
 Where:
-	"players" must conter a players list with the atributtes "id" and "posture"; 
-	"properties" must conter a properties list with the atributtes "id", "position", 
+	"players" must contain a players list with the atributtes "id" and "posture"; 
+	"properties" must contain a properties list with the atributtes "id", "position", 
 	"sale" and "rent".  
 
 The data is initially filled with 4 players and 20 properties.
