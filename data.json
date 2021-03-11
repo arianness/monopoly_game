@@ -1,0 +1,142 @@
+{
+  "players": [
+    {
+      "id": "player1",
+      "posture": "i"
+    },
+    {
+      "id": "player2",
+      "posture": "e"
+    },
+    {
+      "id": "player3",
+      "posture": "c"
+    },
+    {
+      "id": "player4",
+      "posture": "a"
+    }
+    ],
+  "properties": [
+    {
+      "id": "p1",
+      "position": 1,
+      "sale": "50",
+      "rent": "10"
+    },
+    {
+      "id": "p2",
+      "position": 2,
+      "sale": "40",
+      "rent": "4"
+    },
+    {
+      "id": "p3",
+      "position": 3,
+      "sale": "60",
+      "rent": "10"
+    },
+    {
+      "id": "p4",
+      "position": 4,
+      "sale": "20",
+      "rent": "2"
+    },
+    {
+      "id": "p5",
+      "position": 5,
+      "sale": "65",
+      "rent": "20"
+    },
+    {
+      "id": "p6",
+      "position": 6,
+      "sale": "50",
+      "rent": "10"
+    },
+    {
+      "id": "p7",
+      "position": 7,
+      "sale": "80",
+      "rent": "25"
+    },
+    {
+      "id": "p8",
+      "position": 8,
+      "sale": "80",
+      "rent": "20"
+    },
+    {
+      "id": "p9",
+      "position": 9,
+      "sale": "100",
+      "rent": "55"
+    },
+    {
+      "id": "p10",
+      "position": 10,
+      "sale": "50",
+      "rent": "5"
+    },
+    {
+      "id": "p11",
+      "position": 11,
+      "sale": "60",
+      "rent": "20"
+    },
+    {
+      "id": "p13",
+      "position": 12,
+      "sale": "170",
+      "rent": "60"
+    },
+    {
+      "id": "p13",
+      "position": 13,
+      "sale": "20",
+      "rent": "2"
+    },
+    {
+      "id": "p14",
+      "position": 14,
+      "sale": "200",
+      "rent": "100"
+    },
+    {
+      "id": "p15",
+      "position": 15,
+      "sale": "180",
+      "rent": "60"
+    },
+    {
+      "id": "p16",
+      "position": 16,
+      "sale": "85",
+      "rent": "20"
+    },
+    {
+      "id": "p17",
+      "position": 17,
+      "sale": "90",
+      "rent": "30"
+    },
+    {
+      "id": "p18",
+      "position": 18,
+      "sale": "160",
+      "rent": "55"
+    },
+    {
+      "id": "p19",
+      "position": 19,
+      "sale": "70",
+      "rent": "7"
+    },
+    {
+      "id": "p20",
+      "position": 20,
+      "sale": "150",
+      "rent": "60"
+    }
+    ]
+}
