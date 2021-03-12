@@ -21,20 +21,20 @@
     {
       "id": "p1",
       "position": 1,
-      "sale": "50",
-      "rent": "10"
+      "sale": "300",
+      "rent": "30"
     },
     {
       "id": "p2",
       "position": 2,
-      "sale": "40",
-      "rent": "4"
+      "sale": "4000",
+      "rent": "400"
     },
     {
       "id": "p3",
       "position": 3,
-      "sale": "60",
-      "rent": "10"
+      "sale": "600",
+      "rent": "60"
     },
     {
       "id": "p4",
@@ -45,14 +45,14 @@
     {
       "id": "p5",
       "position": 5,
-      "sale": "65",
+      "sale": "800",
       "rent": "20"
     },
     {
       "id": "p6",
       "position": 6,
-      "sale": "50",
-      "rent": "10"
+      "sale": "1000",
+      "rent": "100"
     },
     {
       "id": "p7",
