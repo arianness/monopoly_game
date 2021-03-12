@@ -197,7 +197,7 @@ def main():
     time_out = 0
     winners = []
     turn = 0
-    #open dados file
+    #open data file
     try:
         with open('data.json', 'r') as dataFile:
             data = json.load(dataFile)
@@ -217,7 +217,7 @@ def main():
         players = insert_players(players, data_players)
         # create list properties
         properties = insert_properties(properties, data_properties)
-        # create boar and insert lists
+        # create board and insert lists
         board = Board(players, properties)
         cont = board.start_play()
         if cont == 1000:
